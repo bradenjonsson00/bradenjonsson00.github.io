@@ -1,3 +1,8 @@
+---
+title: "my resume"
+---
+
+
 # Braden Jonsson
 
 ## Profile
