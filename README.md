@@ -7,7 +7,7 @@ One Paragraph of the project description
 This is my resume, I will also describe how I created it, and how you can too.
 You can see my resume [here](bradenjonsson00.github.io).
 
-###File manifest
+### File manifest
  - README.md
  - _config.yml
  - index.md
