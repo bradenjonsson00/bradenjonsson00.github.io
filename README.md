@@ -7,11 +7,6 @@ One Paragraph of the project description
 This is my resume, I will also describe how I created it, and how you can too.
 You can see my resume [here](bradenjonsson00.github.io).
 
-### File manifest
- - README.md
- - _config.yml
- - index.md
-
 ### Prerequisites
 
  - Install Jekyll
@@ -20,12 +15,16 @@ You can see my resume [here](bradenjonsson00.github.io).
 
 none
 
+## File manifest
+ - README.md
+ - _config.yml
+ - index.md
+
 ## Built With
 
- - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
- - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+ - I used Typoria to create my resume.
+ - I used Github to host the resume.
+ - I used Jekyll to edit the resume's style.
 
 ## Contact Information
  - **Braden Jonsson**
