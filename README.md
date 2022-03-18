@@ -16,7 +16,6 @@ You can see my resume [here](bradenjonsson00.github.io).
 
  - Here is a guide to install Jekyll: https://jekyllrb.com/docs/installation/
 
-
 ## File manifest
 
  - README.md
@@ -32,7 +31,7 @@ Here is a link to Typoria, my Markdown editor of choice: https://typora.io/
 ## Built With
 
  - I used Typoria to create my resume.
- - I used Github to host the resume.
+ - I used Github pages to host the resume.
  - I used Jekyll to edit the resume's style.
 
 ## FAQs
