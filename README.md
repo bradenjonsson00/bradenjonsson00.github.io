@@ -1,12 +1,18 @@
 # bradenjonsson00.github.io
 
-One Paragraph of the project description
+This README will describe how to host a resume on github. An integral part of hosting on github is having a good README. The README assoicated with my resume (that you are currently reading), will both explain and demonstrate what a good README is.
 
 ## Getting Started
 
-This is my resume, I will also describe how I created it, and how you can too.
-
 You can see my resume [here](bradenjonsson00.github.io).
+
+To create a resume that you can host on github, first you must create a repository named "[yourusername].github.io".
+
+Then create a markdown formatted resume file in that repositroy named "index.md". Once that is created you can see your resume at the URL:"[yourusername].github.io"
+
+Then create \_config.yml does ...
+
+The create a README to explain your repository, resume, etc.
 
 ### Prerequisites
 
