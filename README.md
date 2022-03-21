@@ -35,10 +35,14 @@ Here is a link to Typoria, my Markdown editor of choice: https://typora.io/
  - I used Jekyll to edit the resume's style.
 
 ## FAQs
-1. A question about the overall process, such as "Why is Markdown better than a word
-processor?"
-2. A question about the practical details, such as "Why is my resume not showing up?"
-You may use the example FAQs, or come up with your own
+
+Question: Why should I use Github?
+
+Answer: GitHub makes it easy for you to share your work with other people, including for collaberation.
+
+Question: Why have the Jekyll customizations I have made not shown up yet?
+
+Answer: It can take up to 30 minutes for the changes to take effect.
 
 ## Contact Information
 
