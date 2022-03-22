@@ -8,6 +8,7 @@ You can see my resume [here](https://bradenjonsson00.github.io/).
 
  - Have a GitHub account
  - Install Jekyll
+ - A Markdown Editor
 
 ## Introduction
 
