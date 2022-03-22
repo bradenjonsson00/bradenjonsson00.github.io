@@ -76,4 +76,8 @@ Answer: It can take up to 30 minutes for the changes to take effect.
 
 https://github.com/PurpleBooth/a-good-readme-template/edit/main/README.md
 
-- Big thanks to my group members
+- Big thanks to my group members:
+- Arjun Kaushal
+- Braden Jonsson
+- Anas Ashfaq Mehar
+- Joshua Dueck
