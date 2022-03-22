@@ -21,6 +21,10 @@ It is a common practice for people who want to discribute their resume, to do so
 
 If you look around you should be able to find a website that will host your resume for free. In MTW, Andrew says "\[Static websites] have no server-side application dependencies, no databases, and nothing to install", thus they are cheap to host, so that barrier is not a concern.
 
+### Editing YML
+
+![](editYML.gif)
+
 ## Instructions
 
 1. To create a resume that you can host on github, first you must create a repository named "[yourusername].github.io".
