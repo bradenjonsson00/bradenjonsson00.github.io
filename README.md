@@ -2,7 +2,7 @@
 
 This README will describe how to host a resume on github. An integral part of hosting on github is having a good README. The README assoicated with my resume (that you are currently reading), will both explain and demonstrate what a good README is.
 
-You can see my resume [here](bradenjonsson00.github.io).
+You can see my resume [here](https://bradenjonsson00.github.io/).
 
 ## Prerequisites
 
