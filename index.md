@@ -37,11 +37,14 @@ Wide range of work experience outside of the field and ready to begin a career i
 
 ## Education
 University of Manitoba, Faculty of Science
+
 Sept 2015 to April 2016
+
 May 2018 to present
 
 ## Work Experience
 **Ranch Hand**	Jonsson Family Farm
+
 Steep Rock, MB	2011 - 2021
 
 * Perform manual labour and daily maintenance
