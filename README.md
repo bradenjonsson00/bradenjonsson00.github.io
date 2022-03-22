@@ -27,6 +27,7 @@ If you look around you should be able to find a website that will host your resu
 
 1. To create a resume that you can host on github, first you must create a repository named "[yourusername].github.io".
 2. Then create a markdown formatted resume file in that repositroy named "index.md". Once that is created you can see your resume at the URL:"[yourusername].github.io"
+
 Using markdown is an execelant choice for this case. In MTW, Andrew says "[Markdown is] the most widely used lightweight markup language in the world and has the cleanest syntax, but it also has a limited set of features and no defined standard.". I find this to be very true, though the limited set of features isn't an issue, as we are creating a simple doccument. And the "no defined standard isn't an issue, as we are using the GitHub Flavored Markdown, which is more well defined.
 3. Then create \_config.yml, Jekyll uses the information found in this file to change the style of your resume.
 
@@ -34,7 +35,7 @@ Here is a demonstration on how to edit your yml file:
 
 ![](EditYML.gif)
 
-5. Then create a README to explain your repository, resume, etc.
+4. Then create a README to explain your repository, resume, etc.
 
 #### Misc
 
