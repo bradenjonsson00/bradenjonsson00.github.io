@@ -50,11 +50,11 @@ Here is a demonstration on how to edit your yml file:
 
 In MTW, Andrew says to "leverage all the wonderful writing that developers and testers produce". By this he is refering to the various guides, and books that are easily available online. Thus, in this section I have highlighted some useful resources.
 
-Here is a Markdown tutorial: https://www.markdowntutorial.com/
-Here is a guide to install Jekyll: https://jekyllrb.com/docs/installation/
-Here is an Amazon link to "Modern Technical Writing: An Introduction to Software Documentation" by Andrew Etter:  https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
-Here is a link to the speceficiations of GitHub flavored markdown: https://github.github.com/gfm/
-Here is a link to Typoria, my Markdown editor of choice: https://typora.io/
+- Here is a Markdown tutorial: https://www.markdowntutorial.com/
+- Here is a guide to install Jekyll: https://jekyllrb.com/docs/installation/
+- Here is an Amazon link to "Modern Technical Writing: An Introduction to Software Documentation" by Andrew Etter:  https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
+- Here is a link to the speceficiations of GitHub flavored markdown: https://github.github.com/gfm/
+- Here is a link to Typoria, my Markdown editor of choice: https://typora.io/
 
 ## Built With
 
