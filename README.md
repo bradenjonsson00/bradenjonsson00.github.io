@@ -23,7 +23,7 @@ If you look around you should be able to find a website that will host your resu
 
 ### Editing YML
 
-![](editYML.gif)
+![](EditYML.gif)
 
 ## Instructions
 
