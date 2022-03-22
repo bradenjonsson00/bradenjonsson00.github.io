@@ -41,12 +41,6 @@ Here is a demonstration on how to edit your yml file:
 
 "Consistency is king"
 
-## File manifest
-
- - README.md
- - _config.yml
- - index.md
-
 ## More Resources
 
 In MTW, Andrew says to "leverage all the wonderful writing that developers and testers produce". By this he is refering to the various guides, and books that are easily available online. Thus, in this section I have highlighted some useful resources.
