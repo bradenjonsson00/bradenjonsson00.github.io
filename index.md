@@ -1,9 +1,6 @@
 ---
-title: "my resume"
+title: "My Resume"
 ---
-
-
-# Braden Jonsson
 
 ## Profile
 
