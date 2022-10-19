@@ -1,3 +1,7 @@
+---
+title: "Resume"
+---
+
 ## Profile
 
 Highly motivated Computer Science graduate.
