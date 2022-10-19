@@ -1,5 +1,5 @@
 ---
-title: "My Resume"
+title: "Resume"
 ---
 
 ## Profile
