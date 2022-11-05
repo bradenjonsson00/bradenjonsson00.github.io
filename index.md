@@ -39,7 +39,7 @@ University of Manitoba 2022
 
 ## Work Experience
 **Ranch Hand**	Jonsson Family Farm
-Steep Rock, MB	2011 - 2021
+Steep Rock, MB	2011 - 2022
 
 **Seasonal Delivery Walker**	UPS
 Winnipeg, MB	Oct 2017 – Jan 2018
